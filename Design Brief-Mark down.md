@@ -1,12 +1,13 @@
-Plastic Recycling Center Design Brief
+# Plastic Recycling Center Design Brief
 
+# Official class brief
 
-Problem Statement
-- Plastic waste is a significant environmental problem, and only a small portion of plastic is successfully recycled. Improperly disposed plastic can harm animals, enter soil and streams, and break down into microplastics that enter the food chain. Producing virgin plastic also requires significant energy and raw materials.
+## Problem Statement
+Plastic waste is a significant environmental problem, and only a small portion of plastic is successfully recycled. Improperly disposed plastic can harm animals, enter soil and streams, and break down into microplastics that enter the food chain. Producing virgin plastic also requires significant energy and raw materials.
 Fayetteville High School cannot solve the global plastic waste problem, but it can address part of the issue locally. The goal is to increase the amount of plastic recycled at the school, properly separate it, reduce the amount sent to the landfill, and lower its environmental impact.
 
 
-Intended Users or Stakeholders
+## Intended Users or Stakeholders
 - Engineering students, who will help operate and maintain the recycling center
 - Students and teachers who will use the recycling system
 - Custodial staff who handle school waste and recycling
@@ -17,13 +18,13 @@ Intended Users or Stakeholders
 - People or organizations that may provide plastic for recycling
 
 
-Project Goal
-- Design, construct, and program a functional plastic recycling system that can turn selected plastic waste into reusable material or products.
+## Project Goal
+Design, construct, and program a functional plastic recycling system that can turn selected plastic waste into reusable material or products.
 The system should be able to create materials such as plastic sheets or pellets that can later be turned into useful products. It should be safe, economically viable, efficient, and practical for use at Fayetteville High School.
 
 
-Design Criteria
-The recycling center should:
+## Design Criteria
+### The recycling center should:
 - Process selected types of plastic efficiently
 - Turn recycled plastic into reusable material or products
 - Produce plastic that is safe to handle and use
@@ -39,7 +40,7 @@ The recycling center should:
 - Produce consistent, useful recycled material
 
 
-Constraints
+## Constraints
 - Plastic must be properly sorted because mixing incompatible plastics can ruin a batch.
 - Melting and processing plastic can release fumes and particles, so proper ventilation is required.
 - Machines that involve heat, high speeds, moving parts, or other hazards must include appropriate safety guards and precautions.
@@ -52,7 +53,7 @@ Constraints
 - The system must be practical for high school students to operate and maintain.
 
 
-Initial Measures of Success
+## Initial Measures of Success
 - The project will be successful if:
 - The recycling center has a reliable source of plastic.
 - Plastic is processed consistently.
@@ -65,7 +66,7 @@ Initial Measures of Success
 - The machine operates consistently and produces reliable results.
 
 
-Major Unanswered Questions
+## Major Unanswered Questions
 - Where will project funding come from?
 - How much will the materials and equipment cost?
 - Will there be enough recyclable plastic to keep the system operating?
