@@ -26,4 +26,5 @@
 - Heater will spin and mix the plastic together
 - heater will shoot out plastic and into a container
 
-## 
+## Collection coil  
+- a coil will be at the end of the heater that spins and collects the 3D print filament 
